@@ -4,6 +4,7 @@ Dynamic array
 This is an implementation of a dynamic array class
 
 The main file tests the dynamic array implementation
+
 valgrind is used to check memory leaks
 
 To compile use the following commands:
