@@ -3,7 +3,7 @@ Vending Machine
 
 This is a software for a vending machine. 
 
-This software take two command-line arguments.  The first argument is the
+This software takes two command-line arguments.  The first argument is the
 path to the inventory JSON file.  The second argument is the path to the transactions
 JSON file.
 
@@ -12,8 +12,7 @@ JSON file.
 * Transactions: a list of purchase transactions, with the product name, and the
   value (in cents) of coins deposited
 
-This software produce a JSON document, on stdout, containing a list of
-transaction results.
+It produces a JSON document, on stdout, containing a list of transaction results.
 
 Each result identifies the product name, whether a product was delivered, 
 and the change given, as a list of coin values.
