@@ -1,0 +1,1 @@
+/usr/bin/c++   -Werror   CMakeFiles/dynamic_array.dir/src/array.cc.o CMakeFiles/dynamic_array.dir/src/simple_string.cc.o CMakeFiles/dynamic_array.dir/main.cc.o  -o dynamic_array 
