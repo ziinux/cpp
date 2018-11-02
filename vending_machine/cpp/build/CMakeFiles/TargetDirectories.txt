@@ -1,0 +1,3 @@
+/home/ziinux/Documents/jobHunt/KeySight/vending_machine_Coding_Exercise/vending_machine/cpp/build/CMakeFiles/rebuild_cache.dir
+/home/ziinux/Documents/jobHunt/KeySight/vending_machine_Coding_Exercise/vending_machine/cpp/build/CMakeFiles/VendingMachine.dir
+/home/ziinux/Documents/jobHunt/KeySight/vending_machine_Coding_Exercise/vending_machine/cpp/build/CMakeFiles/edit_cache.dir

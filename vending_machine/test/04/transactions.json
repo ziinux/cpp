@@ -1,0 +1,91 @@
+[
+  {
+    "name": "Cool Ranch Doritos",
+    "funds": [
+      25,
+      25,
+      100
+    ]
+  },
+  {
+    "name": "Cool Ranch Doritos",
+    "funds": [
+      5,
+      25,
+      100,
+			100
+    ]
+  },
+  {
+    "name": "Choco Almond Milk",
+    "funds": [
+      25,
+      5,
+      100,
+			100
+    ]
+  },
+  {
+    "name": "Choco Almond Milk",
+    "funds": [
+      5,
+      25,
+      100
+    ]
+  },
+  {
+    "name": "Choco Almond Milk",
+    "funds": [
+      25,
+      25,
+      25,
+      100
+    ]
+  },
+  {
+    "name": "Choco Almond Milk",
+    "funds": [
+      5,
+      5,
+			5,
+			5,
+			25,
+			25,  
+      100
+    ]
+  },
+  {
+    "name": "Choco Almond Milk",
+    "funds": [
+      5,
+      5,
+      100,
+			100
+    ]
+  },
+  {
+    "name": "Spring Water",
+    "funds": [
+      5,
+      100,
+      100
+    ]
+  },
+  {
+    "name": "Spring Water",
+    "funds": [
+      5,
+      5,
+      100,
+			100
+    ]
+  },
+  {
+    "name": "Figbar",
+    "funds": [
+      25,
+      25,
+      100
+    ]
+  }
+]
