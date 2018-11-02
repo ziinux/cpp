@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<launch>
+    <node name="bonirob_tasks" pkg="task_manager_bonirob" type="task_server_bonirob"  output="screen">
+        <param name="lib_path" value="$(find task_manager_bonirob)/tasks"/>
+    </node>
+</launch>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<launch>
+    <node name="uavsim_tasks" pkg="task_manager_uavsim" type="task_server_uavsim"  output="screen">
+        <param name="lib_path" value="$(find task_manager_uavsim)/tasks"/>
+        <param name="base_frame" value="Drone"/>
+        <param name="reference_frame" value="world"/>
+        <remap from="/cmd_vel" to="/vrep/drone/cmd_vel"/>
+    </node>
+</launch>
