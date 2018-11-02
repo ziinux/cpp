@@ -1,0 +1,3 @@
+/home/ziinux/git/cpp/vector3/build/CMakeFiles/rebuild_cache.dir
+/home/ziinux/git/cpp/vector3/build/CMakeFiles/vector3.dir
+/home/ziinux/git/cpp/vector3/build/CMakeFiles/edit_cache.dir
