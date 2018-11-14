@@ -1,5 +1,11 @@
 # Vending Machine
 
+- El Hafidi, Badr
+- Georgia Institute of Technology
+- [badr@gatech.edu](mailto:badr@gatech.edu)
+- [badr.el.hafidi@gmail.com](mailto:badr.el.hafidi@gmail.com)
+- GitHub: <https://github.com/ziinux/projects/tree/master/vending_machine>
+
 ## Specifications
 
 We want to code a software for a vending machine that will do the following tasks:
