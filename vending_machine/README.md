@@ -31,7 +31,7 @@ The program outputs one JSON file, on stdout, containing the transactions’ res
 
 ### Assumptions
 
-This software design use the following assumptions:
+This software design uses the following assumptions:
 
 1. The JSON inventory file should respect the following format:
 ```
@@ -101,7 +101,7 @@ The program uses 3 classes:
     - The ***operator<<*** was overloaded for the class Transaction in order to output the result of the transaction in the correct JSON format.
 - **VendineMachine**: the VendineMachine class represents the actual vending machine. It reads the JSON inventory file and the JSON transactions file and build a hash table of (key=name_of_product,value=Product) called ***inventory_*** and a dynamic array of Transaction called ***transactions_***.
    - The operation ***processTransactions()*** processes all the transactions in the dynamic array transactions_ using the operation processTransaction() of the class Transaction.
-   - The operation ***printTransaction()*** uses the overloaded ***operator<<*** of the class Transaction to output, in stdout, the result of the transaction that includes the name of the product, whether the product was delivered, and the change given.
+   - The operation ***printTransaction()*** uses the overloaded ***operator<<*** of the class Transaction to output, on stdout, the result of the transaction that includes the name of the product, whether the product was delivered, and the change given.
 
 In the UML class diagram, the classes **Product** and **Transaction** have a relationship of ***multiplicity*** 1..\* and ***aggregation*** to the class **VendineMachine**.
 - The class **VendineMachine** is formed of one or more **Product**s and one or more **Transaction**s
